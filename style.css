@@ -1,1 +1,23 @@
 
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+    margin: 20px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+p {
+    font-size: 18px;
+}
+
+button {
+    padding: 10px;
+    cursor: pointer;
+}
